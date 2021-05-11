@@ -1,18 +1,19 @@
 # Data Analytics on Ecommerce Company Database
 
+## Directories
 
-## Analyzing Traffic Sources
+### Analyzing Traffic Sources
 
-## Analyzing Website Performance
+### Analyzing Website Performance
 
-## Mid-cource Project
+### Mid-cource Project
 
-## Analysis for Channel Portfolio Management
+### Analysis for Channel Portfolio Management
 
-## Analyzing Business Patterns and Seasonality
+### Analyzing Business Patterns and Seasonality
 
-## Product Analysis
+### Product Analysis
 
-## User Analysis
+### User Analysis
 
-## Final Project
+### Final Project
