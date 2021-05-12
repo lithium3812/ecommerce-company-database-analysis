@@ -35,3 +35,11 @@ Analysis of growth in the first 8 months of the company.
 8. Simliar analysis for the billing page test from Sep 10 to Nov 10.
 
 ### Final Project
+Analysis of company growth in the entire period since it was launched (May 2012 - May 2015).
+1. Quarterly analysis of overall session and order volume.
+2. Quarterly figures of session-to-order CVR, revenue per order, revenue per session.
+3. Quarterly analysis of orders from each channel.
+4. Session-to-order CVR for each channel.
+5. Monthly trends of revenue and margin by product.
+6. Analysis of the impact of introducing new products by click-through rate and CVR to order.
+7. On 5th December 2014, the company made our 4th product available as a primary purchase item (top in the cart), which was previously only a cross-sell option. I analyzed how cross-sell performance changed since then.  
