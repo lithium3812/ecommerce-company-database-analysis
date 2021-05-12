@@ -29,7 +29,9 @@ Analysis of growth in the first 8 months of the company.
 2. Monthly trends of Gsearch broken down by marketing campaigns "brand" and "nonbrand".
 3. Monthly sessions and orders volume by device type "mobile" and "desktop".
 4. By the combination of source, campaign, and whether or not there is the previous page's URL recoreded, our traffic channels are categorized into 4 types: Gsearch, Bsearch, organic search, and direct search. Since Gsearch costs marketing bid, it would be not great if we rely only on it. I analyzed monthly trends of all channels.
-5.Conversion rate from session to order by month.
-6.
+5. Conversion rate from session to order by month.
+6. In July, we had a test of a new landing page /lander-1 and made a complete transition from the old landing page /home. Here I estimated the impact of this change on revenue from the increase of CVR.
+7. Full conversion funnels from each of the 2 landing pages to order during the test mentioned above.
+8. Simliar analysis for the billing page test from Sep 10 to Nov 10.
 
 ### Final Project
