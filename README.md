@@ -42,4 +42,7 @@ Analysis of company growth in the entire period since it was launched (May 2012 
 4. Session-to-order CVR for each channel.
 5. Monthly trends of revenue and margin by product.
 6. Analysis of the impact of introducing new products by click-through rate and CVR to order.
-7. On 5th December 2014, the company made our 4th product available as a primary purchase item (top in the cart), which was previously only a cross-sell option. I analyzed how cross-sell performance changed since then.  
+7. On 5th December 2014, the company made our 4th product available as a primary purchase item (top in the cart), which was previously only a cross-sell option. I analyzed how cross-sell performance changed since then. 
+
+## Key Results
+
