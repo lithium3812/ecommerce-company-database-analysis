@@ -23,7 +23,7 @@ Product level sales analysis. Analysis of the impact of new product launches. Pr
 ### User Analysis
 Customer analysis with customers behaviours such as purchase and repeat.
 
-### Mid-cource Project
+### Mid-course Project
 Analysis of growth in the first 8 months of the company.
 1. Traffic source "gsearch" has the highest volume. I pulled monthly trends of gsearch sessions and orders. 
 2. Monthly trends of Gsearch broken down by marketing campaigns "brand" and "nonbrand".
@@ -45,4 +45,10 @@ Analysis of company growth in the entire period since it was launched (May 2012 
 7. On 5th December 2014, the company made our 4th product available as a primary purchase item (top in the cart), which was previously only a cross-sell option. I analyzed how cross-sell performance changed since then. 
 
 ## Key Results
-
+- Not only "nonbrand" but also "brand" campaign is growing in sessions and orders. This is a good sign since this means people are actually searching for our business.
+- By the end of the first year 2012, it becomes more distinct that sessions and orders from desktop has much higher volume than those of mobile. This means it might be more efficient to focus on improving our desktop website.
+- Sessions from customers' organic search and direct type-in are growing alongside those from paid marketing campaigns. This is great since these are customer acquisition with no cost and also it means our brand is getting more recognision.
+- During the new landing page test in July 2012, the original landing page "/home" had CVR 3.2% and the new page "/lander-1" had CVR 4.0%, and in the following 4 months after moving entirely to the new landing page there were 22972 sessions. From this we can estimate that this change brought us approximately 45 extra orders per month.
+- Conversion funnels show that the click-through rate of /lander-1 page is significantly higher than that of /home and it certainly is the reason of the improved overall CVR.
+- During the new billing page test from Sep 10 - Nov 10, there was on average 22.88$ of revenue per billing session via the original billing page "/billing" and 31.21$ via the test billing page "/billing-2". In the following month there were 1193 total billing sessions and therefore the benefit from the billing page change can be estimated to be 9937.69$.
+- 
