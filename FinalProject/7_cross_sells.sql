@@ -20,3 +20,8 @@ ON o.order_id = i.order_id
 WHERE o.created_at > '2014-12-05'
 GROUP BY o.primary_product_id
 ORDER BY o.primary_product_id;
+
+/*------------------------- 	Conclusion	   ----------------------------
+The 4th product "The Hudson River Mini bear" cross-sells pretty well for all other products with rate 20%.
+This is because it's designed as lower priced small additional item, and probably this is a major contributor of increased revenue per order.
+---------------------------------------------------------------------------

@@ -36,4 +36,11 @@ WHERE pageview_url IN ('/billing', '/billing-2')
  => 8.33*1193 = 9937.69$ additional revenue if all billing pages had been /billing-2
 ---------------------------------------------------------*/ 
 
+-- See until when the original billing page /billing was used
+SELECT MAX(wp.created_at)
+FROM website_pageviews AS wp
+INNER JOIN orders AS o
+ON wp.website_session_id = o.website_session_id
+WHERE pageview_url = '/billing';
+-- 2013-01-05 01:11:33
 

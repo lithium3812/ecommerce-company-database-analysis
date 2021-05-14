@@ -14,3 +14,8 @@ FROM website_sessions AS ws
 INNER JOIN orders AS o
 ON ws.website_session_id = o.website_session_id
 GROUP BY year, quarter;
+
+/*----------------- Conclusion -----------------
+In the 2nd quarter of 2012, the ratio of nonbrand session volume to that of brand search was about 6:1.
+At the end, this ratio is about 2:1. This means we are much less dependent on paid marketing campaigns.
+------------------------------------------------*/

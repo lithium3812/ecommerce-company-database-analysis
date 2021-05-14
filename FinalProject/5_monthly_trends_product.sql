@@ -29,3 +29,10 @@ SELECT
     SUM(price_usd - cogs_usd) AS total_margin
 FROM order_items
 GROUP BY yr, mt;
+
+/*---------------------------	Conclusion	-----------------------------
+Revenue by our main product "The original Mr. Fuzzy" pops up in Nov - Dec every year. 
+This is a typical seasonality seen in US online retails.
+Revenue of "the forever love bear" has peeks in February, and this is because this product is designed for couples
+and therefore sells good in Vallentine's day season.
+------------------------------------------------------------------------*/

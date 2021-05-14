@@ -21,4 +21,4 @@ ON ws.website_session_id = o.website_session_id
 GROUP BY year, quarter;
 
 /*			Conclusion			*/
--- Session and order volumes are almost constantly growing. Only at the 4th quarter of 2012 a strange boom can be seen.
+-- Session and order volumes are almost constantly growing. There seems to be strong booms in 4th quarter.

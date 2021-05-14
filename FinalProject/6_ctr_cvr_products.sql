@@ -28,3 +28,12 @@ FROM product_pageviews AS pp
 LEFT JOIN orders AS o
 ON pp.website_session_id = o.website_session_id
 GROUP BY yr, mt;
+
+-- When each product was introduced
+SELECT * FROM products;
+-- 2: 2013-01-06
+-- 3: 2013-12-12
+-- 4: 2014-02-05
+
+/*				Conclusion				*/
+-- Introduction of new products clearly correlates with the improvement of CTR and CVR.
