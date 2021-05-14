@@ -56,3 +56,9 @@ Analysis of company growth in the entire period since it was launched (May 2012 
 - Revenue by our main product "The original Mr. Fuzzy" pops up in Nov - Dec every year. This is a typical seasonality seen in US online retails. Also revenue of "the forever love bear" has peeks in February, and this is because this product is designed for couples and therefore sells good in Vallentine's day season.
 - After 3 years since its lauch, the click-through rate of the products list page increased from 71.2% to 85.6%, and CVR from the products list page to order increased from 8.0% to 13.9%. And monthly trends analysis shows that it's clearly correlated to introductions of new products.
 - The 4th product "The Hudson River Mini bear" cross-sells pretty well for all other products with rate 20%. This is because it's designed as lower priced small additional item, and probably this is a major contributor of increased revenue per order.
+
+## Proposals
+- We did A/B test for the landing page and the billing page and saw improvements in click-through and conversion. I would like to do similar tests for other pages in conversion path. For example the click-through rate of the cart page is only 66% or so. We can investigate why customers leave after going on to the cart and if we can improve it.
+- In short term I would suggest to focus on improving user experience on our desktop website. However we can also invest on encouraging customers to use our mobile app more.
+- We have an item "the forever love bear" that sells very well in a specific season. I would suggest to make new products from which we can expect good sales in some seasons. e.x. "Summer surfing bear", "Easter bear"...
+- "The Hudson River Mini bear" cross-sells similarly well with all other products. I would suggest to make new lower priced products that customers will likely purchase in specific combinations.
